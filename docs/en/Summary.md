@@ -41,6 +41,7 @@
     - Drawer
     - Modal
   - [Navigation](components/navigation)
+    - [Menu](components/navigation/vtex.menu)
   - [Product Related](components/product-related)
   - [Search Related](components/search-related)
   - [All Components](components/all)
